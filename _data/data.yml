@@ -63,7 +63,8 @@ education:
       university: Metropolitan Community College-Maple Woods
       time: 2018 - 2019
       details: |
-         Activities and Societies: Member of Phi Theta Kappa; achieved Dean’s List every semester. Leader of the Cycling Club; worked on campus in the Math Lab.
+         Activities and Societies: Member of Phi Theta Kappa; achieved Dean’s List every semester.  
+         Leader of the Cycling Club; worked on campus in the Math Lab.
 
 experiences:
     - role: Learning Assitant
@@ -79,8 +80,8 @@ experiences:
       time: 2009 - 2013
       company: United States Marine Corps
       details: |
-        Employ radio to send and receive messages. Typical duties include the set up and tuning of radio equipment and Very Small Aperture Terminal-Small, including antennas and power sources; establishing contact with distant stations; processing and logging of messages; making changes to frequencies or cryptographic codes.
-        Held supervisory responsibilities as a Corporal; in charge of a small team of three to five junior enlisted Marines.t
+          - Employ radio to send and receive messages. Typical duties include the set up and tuning of radio equipment and Very Small Aperture Terminal-Small, including antennas and power sources; establishing contact with distant stations; processing and logging of messages; making changes to frequencies or cryptographic codes.
+          - Held supervisory responsibilities as a Corporal; in charge of a small team of three to five junior enlisted Marines.
 projects:
     title: Projects
     intro: >
