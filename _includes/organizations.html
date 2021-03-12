@@ -1,4 +1,4 @@
-{% assign organizations = site.data.data.sidebar.languages %}
+{% assign organizations = site.data.data.sidebar.organizations %}
 {% if organizations %}
 <div class="organizations-container container-block">
 
@@ -6,7 +6,7 @@
     Organizations
   </h2>
 
-  <ul class="list-unstyled interests-list">
+  <ul class="list-unstyled organizations-list">
     {% for organization in organizations %}
 
       {% if organization.link %}
