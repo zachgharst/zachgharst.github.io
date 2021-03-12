@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: zdgharst@gmail.com
     phone: 913-907-9192
-    website: zdgharst.engineer #do not add http://
+    website: gharst.engineer #do not add http://
     linkedin: zach-gharst
     github: ZDGharst
     telegram: # add your nickname without '@' sign
@@ -25,6 +25,8 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     print: http://gharst.engineer/GharstZach_Resume.pdf
+    strava: 33172158
+    steam: gharst
 
     languages:
       - idiom: English
