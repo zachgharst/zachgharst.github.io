@@ -36,7 +36,7 @@ sidebar:
 #        level: Professional
 
     interests:
-      - item: <i class="fab fa-bicycle">::before</i>Cycling
+      - item: <i class="fas fa-bicycle"></i>Cycling
         link:
 
 career-profile:
@@ -83,29 +83,27 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    # assignments:
-    #   - title: Velocity
-    #     link: "#lipsum"
-    #     tagline: "Lorem ipsum dolor sit amet."
+      These are some of the projects I'm proud of that I want to share. For some of them, I'm proud of my project structure, clean programming, and efficiency. For others, it's how I worked as a team to accomplish a complex scope.
+    assignments:
+      - title: DormAssignments (AI)
+        link: "https://github.com/ZDGharst/DormAssignments"
+        tagline: "From a list of student compatibilities, assign students to dorm rooms using Simulated Annealing. C++"
 
-#       - title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: 8Puzzle (AI)
+        link: "https://github.com/ZDGharst/8Puzzle#"
+        tagline: "Solves an 8-puzzle arrangement using A* search. C++"
 
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Emergency Response Simulator
+        link: "https://github.com/ZDGharst/EmergencyResponseSimulator"
+        tagline: "Created a graph of the northland of Kansas City, MO, and implemented Dijkstra's pathfinding algorithm to assign vehicles to emergency scenarios. C++"
 
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Nine Men's Morris
+        link: "https://github.com/ZDGharst/UMKC_ForgetfulWanderers"
+        tagline: "Recreated the board game Nine Men's Morris in Unity engine with a 5 person team; focused heavily on correctly using the Scrum framework and test-driven development. Unity, C#, Scrum"
 
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: EarthquakeDB
+        link: "https://github.com/ZDGharst/CS470_MostFunGroup"
+        tagline: "Worked with three other students to create, import, process, and analyze statistics on an extremely large dataset of earthquakes from around the world. SQL, MySQL, PHP"
 
 # publications:
 #     title: Publications
