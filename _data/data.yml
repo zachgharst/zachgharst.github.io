@@ -36,7 +36,7 @@ sidebar:
 #        level: Professional
 
     interests:
-      - item: <i class="fas fa-bicycle"></i>Cycling
+      - item: <i class="fas fa-bicycle"></i> Cycling
         link:
 
 career-profile:
@@ -87,11 +87,11 @@ projects:
     assignments:
       - title: DormAssignments (AI)
         link: "https://github.com/ZDGharst/DormAssignments"
-        tagline: "From a list of student compatibilities, assign students to dorm rooms using Simulated Annealing. C++"
+        tagline: "From a list of student compatibilities, assign students to dorm rooms using Simulated Annealing. Implemented tools to debug the program and visualize results. C++
 
       - title: 8Puzzle (AI)
         link: "https://github.com/ZDGharst/8Puzzle#"
-        tagline: "Solves an 8-puzzle arrangement using A* search. C++"
+        tagline: "Solves an 8-puzzle arrangement using A* search. Through clever usage of data structures and pointers, completed a full suite of assigned puzzles in only 20ms compared to the 10s+ of other students. C++"
 
       - title: Emergency Response Simulator
         link: "https://github.com/ZDGharst/EmergencyResponseSimulator"
