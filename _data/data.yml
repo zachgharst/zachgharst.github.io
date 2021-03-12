@@ -87,7 +87,7 @@ projects:
     assignments:
       - title: DormAssignments (AI)
         link: "https://github.com/ZDGharst/DormAssignments"
-        tagline: "From a list of student compatibilities, assign students to dorm rooms using Simulated Annealing. Implemented tools to debug the program and visualize results. C++
+        tagline: "From a list of student compatibilities, assign students to dorm rooms using Simulated Annealing. Implemented tools to debug the program and visualize results. C++"
 
       - title: 8Puzzle (AI)
         link: "https://github.com/ZDGharst/8Puzzle#"
