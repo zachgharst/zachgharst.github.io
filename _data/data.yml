@@ -36,7 +36,7 @@ sidebar:
 #        level: Professional
 
     interests:
-      - item: Cycling
+      - item: <i class="fab fa-bicycle">::before</i>Cycling
         link:
 
 career-profile:
@@ -48,9 +48,9 @@ career-profile:
 
       My goal for my students as atutor isn't to give them the answer, but to show why an answer works and to develop a deeper understanding of the subject. Handily enough, this is primarily my goal in life, as well.
 
-      🚴Cycling enthusiast.  
-      👨🏫University level tutor.  
-      🏅Fierce competitor.
+      🚴 Cycling enthusiast.  
+      🏫 University level tutor.  
+      🏅 Fierce competitor.
 education:
     - degree: Bachelor's, Computer Science, 4.0 GPA
       university: University of Missouri-Kansas City
@@ -63,23 +63,8 @@ education:
       time: 2018 - 2019
       details: |
          Activities and Societies: Member of Phi Theta Kappa; achieved Dean’s List every semester; 4.0 GPA. Leader of the Cycling Club; worked on campus in the Math Lab.
-         
+
 experiences:
-    - role: Software Engineering Intern
-      time: Summer 2021
-      company: Cerner, Kansas City
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
     - role: Learning Assitant
       time: 2020 - Current
       company: Metropolitan Community College, Kansas City
@@ -89,17 +74,12 @@ experiences:
           - Conducting one-on-one assistance to students who need tutoring in algebra, calculus, physics, biology, statistics, information technology, and computer science (C++, Python, arch) subjects.
           - Creating handouts and supplementary materials to assist student learning.
           - Working with a variety of individuals, students, staff, and faculty to support the philosophy and mission of an urban, open-door, comprehensive community college.
-    # - role: UI Developer
-    #   time: 2012 - 2014
-    #   company: Amazon, London
-    #   details: |
-    #     Describe your role here lorem ipsum dolor sit amet, consectetuer
-    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-    #     Cum sociis natoque penatibus et magnis dis parturient montes,
-    #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
-    #     pellentesque eu, pretium quis, sem.
-    #       - Bullet point
-    #       - Bullet point
+    - role: Field Radio Operator, Corporal of Marines
+      time: 2009 - 2013
+      company: United States Marine Corps
+      details: |
+        Employ radio to send and receive messages. Typical duties include the set up and tuning of radio equipment and Very Small Aperture Terminal-Small, including antennas and power sources; establishing contact with distant stations; processing and logging of messages; making changes to frequencies or cryptographic codes.
+        Held supervisory responsibilities as a Corporal; in charge of a small team of three to five junior enlisted Marines.t
 projects:
     title: Projects
     intro: >
@@ -168,8 +148,16 @@ skills:
       - name: Apache
         level: 85%
 
-      - name: MySQL
+      - name: PHP
+        level: 85%
+
+      - name: Frontend Web Development
+        level: 80%
+
+      - name: MySQL / SQL
         level: 75%
 
+      - name: ASP.NET Core MVC
+        level: 50%
 footer: #>
   #  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
