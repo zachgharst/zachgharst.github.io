@@ -92,17 +92,15 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    # - role: Senior Software Engineer
-    #   time: 2014 - 2015
-    #   company: Google, London
-    #   details: |
-    #     Describe your role here lorem ipsum dolor sit amet, consectetuer
-    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-    #     Cum sociis natoque penatibus et magnis dis parturient montes,
-    #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
-    #     pellentesque eu, pretium quis, sem.
-    #       - Bullet point
-    #       - Bullet point
+    - role: Learning Assitant
+      time: 2020 - Current
+      company: Metropolitan Community College, Kansas City
+      details: |
+          - Continuing tutoring services through the COVID-19 pandemic by creating an online platform through Discord for students and tutors to engage with each other.
+          - Providing walk-in tutoring in the Math & Science Lab.
+          - Conducting one-on-one assistance to students who need tutoring in algebra, calculus, physics, biology, statistics, information technology, and computer science (C++, Python, arch) subjects.
+          - Creating handouts and supplementary materials to assist student learning.
+          - Working with a variety of individuals, students, staff, and faculty to support the philosophy and mission of an urban, open-door, comprehensive community college.
     # - role: UI Developer
     #   time: 2012 - 2014
     #   company: Amazon, London
