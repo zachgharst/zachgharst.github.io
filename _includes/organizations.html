@@ -1,0 +1,22 @@
+{% assign organizations = site.data.data.sidebar.languages %}
+{% if organizations %}
+<div class="organizations-container container-block">
+
+  <h2 class="container-block-title">
+    Organizations
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for organization in organizations %}
+
+      {% if organization.link %}
+      <li><a href="{{ organization.link }}">{{ organization.item }}</a></li>
+      {% else %}
+      <li>{{ organization.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//organizations-->
+{% endif %}

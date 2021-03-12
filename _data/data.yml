@@ -40,6 +40,13 @@ sidebar:
       - item: <i class="fas fa-bicycle"></i> Cycling
         link:
 
+    organizations:
+      - item: Member of BikeWalkKC
+        link:
+
+      - item: Member of the Association of Computing Machinery
+        link: 
+
 career-profile:
     title: Career Profile
     summary: |
