@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Zach Gharst
@@ -44,34 +44,26 @@ career-profile:
     summary: |
       I'm a Computer Science student at University of Missouri-Kansas City. I also work part time as a tutor at Metropolitan Community College. Check out my skills below; I'm always the go-to person for Git, Agile, and documentation in my team projects!
 
-      My goal for my students isn't to give them the answer, but to show why an answer works and to develop a deeper understanding of the subject. Handily enough, this is primarily my goal in life, as well.
+      I have accepted an opportunity at Cerner Corporation to work as a Software Engineer Intern this upcoming summer (2021). I'm excited to see how I grow into a Software Engineer, and I appreciate Cerner for believing in my capabilities.
 
-      🚴Cycling enthusiast.
-      👨🏫University level tutor.
+      My goal for my students as atutor isn't to give them the answer, but to show why an answer works and to develop a deeper understanding of the subject. Handily enough, this is primarily my goal in life, as well.
+
+      🚴Cycling enthusiast.  
+      👨🏫University level tutor.  
       🏅Fierce competitor.
 education:
-    - degree: BS-Computer Science
+    - degree: Bachelor's, Computer Science, 4.0 GPA
       university: University of Missouri-Kansas City
       time: 2020 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: General Studies
-      university: Metropolitan Community College
+        Currently attending classes as a Senior at UMKC in pursuit of a BSCS. Currently enrolled in: Software Engineering Capstone, Foundations of Data Networks, Introduction to Artificial Intelligence, Introduction to Unity.
+
+    - degree: General Studies, Computer Science, 4.0 GPA
+      university: Metropolitan Community College-Maple Woods
       time: 2018 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+         Activities and Societies: Member of Phi Theta Kappa; achieved Dean’s List every semester; 4.0 GPA. Leader of the Cycling Club; worked on campus in the Math Lab.
+         
 experiences:
     - role: Software Engineering Intern
       time: Summer 2021
