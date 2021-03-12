@@ -42,17 +42,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus hendrerit
-      nulla a rhoncus. Fusce et imperdiet nibh, nec tristique risus. Aliquam pellentesque
-      sit amet ex non vestibulum. Nunc in interdum nulla. Etiam elementum sem dolor. Etiam
-      vel faucibus odio, eu molestie massa. Donec in ex aliquet, semper erat non,
-      scelerisque augue. Sed vel orci mauris.
+      I'm a Computer Science student at University of Missouri-Kansas City. I also work part time as a tutor at Metropolitan Community College. Check out my skills below; I'm always the go-to person for Git, Agile, and documentation in my team projects!
 
-      Nam pharetra nunc id dictum pulvinar. Maecenas eget luctus mi. Nunc tincidunt rutrum
-      ante, id rutrum eros euismod in. Suspendisse ac malesuada metus. Suspendisse dictum
-      metus suscipit lacus venenatis, at porttitor dui euismod. Proin sit amet ullamcorper
-      ipsum. Aliquam a ex nunc. Pellentesque tincidunt et enim ut pellentesque. Ut luctus
-      justo id nulla viverra tincidunt. Vestibulum sagittis eget lacus at ultricies.
+      My goal for my students isn't to give them the answer, but to show why an answer works and to develop a deeper understanding of the subject. Handily enough, this is primarily my goal in life, as well.
+
+      🚴Cycling enthusiast.
+      👨🏫University level tutor.
+      🏅Fierce competitor.
 education:
     - degree: BS-Computer Science
       university: University of Missouri-Kansas City
@@ -118,10 +114,10 @@ projects:
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#lipsum"
-        tagline: "Lorem ipsum dolor sit amet."
+    # assignments:
+    #   - title: Velocity
+    #     link: "#lipsum"
+    #     tagline: "Lorem ipsum dolor sit amet."
 
 #       - title: DevStudio
 #         link: "#"
