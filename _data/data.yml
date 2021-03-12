@@ -42,16 +42,13 @@ sidebar:
       - item: <i class="fas fa-bicycle"></i> Cycling
         link:
 
-      - item: <i class="fas fa-square-root-alt"></i> Mathematics
+      - item: <i class="fas fa-infinity"></i> Mathematics
         link:
 
       - item: <i class="fas fa-gamepad"></i> Gaming
         link:
 
       - item: <i class="fas fa-tshirt"></i> Male Fashion
-        link:
-
-      - item: <i class="fas fa-drumstick-bite"></i> Barbecue
         link:
 
     organizations:
