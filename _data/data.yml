@@ -111,7 +111,7 @@ projects:
 
       - title: 8Puzzle (AI)
         link: "https://github.com/ZDGharst/8Puzzle#"
-        tagline: "Solves an 8-puzzle arrangement using A* search. Through clever usage of data structures and pointers, completed a full suite of assigned puzzles in only 20ms compared to the 10s+ of other students. C++"
+        tagline: "Solves an 8-puzzle arrangement using A* search with optimal data structures and algorithms. C++"
 
       - title: Emergency Response Simulator
         link: "https://github.com/ZDGharst/EmergencyResponseSimulator"
