@@ -1,6 +1,11 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
-
+    {% if sidebar.print %}
+    <li class="print"><i class="fas fa-print"></i>
+      <a href="{{ sidebar.print }}" target="_blank">Printable Resume</a>
+    </li>
+    {% endif %}
+    
     {% if sidebar.email %}
     <li class="email"><i class="fas fa-envelope"></i>
       <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
@@ -75,21 +80,16 @@
 
     {% if sidebar.steam %}
     <li class="steam"><i class="fab fa-steam"></i>
-      <a href="https://steamcommunity.com/id/{{ sidebar.steam }}/" target="_blank"> Steam</a>
+      <a href="https://steamcommunity.com/id/{{ sidebar.steam }}/" target="_blank"> F0NTAINE</a>
     </li>
     {% endif %}
 
     {% if sidebar.strava %}
     <li class="strava"><i class="fab fa-strava"></i>
-      <a href="https://www.strava.com/athletes/{{ sidebar.strava }}" target="_blank"> &nbsp;Strava</a>
+      <a href="https://www.strava.com/athletes/{{ sidebar.strava }}" target="_blank"> Zach Gharst</a>
     </li>
     {% endif %}
 
-    {% if sidebar.print %}
-    <li class="print"><i class="fas fa-print"></i>
-      <a href="{{ sidebar.print }}" target="_blank">Printable Resume</a>
-    </li>
-    {% endif %}
 
   </ul>
 </div><!--//contact-container-->
