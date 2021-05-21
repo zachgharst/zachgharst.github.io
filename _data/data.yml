@@ -81,8 +81,8 @@ education:
       university: Metropolitan Community College-Maple Woods
       time: 2018 - 2019
       details: |
-         Activities and Societies: Member of Phi Theta Kappa; achieved Dean’s List every semester.  
-         Leader of the Cycling Club; worked on campus in the Math Lab.
+        Activities and Societies: Member of Phi Theta Kappa; achieved Dean’s List every semester.  
+        Leader of the Cycling Club; worked on campus in the Math Lab.
 
 experiences:
     - role: Software Engineer Intern
@@ -100,7 +100,7 @@ experiences:
           - Creating handouts and supplementary materials to assist student learning.
           - Working with a variety of individuals, students, staff, and faculty to support the philosophy and mission of an urban, open-door, comprehensive community college.
 
-- role: Field Radio Operator, Corporal of Marines
+    - role: Field Radio Operator, Corporal of Marines
       time: 2009 - 2013
       company: United States Marine Corps
       details: |
