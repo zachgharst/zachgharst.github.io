@@ -88,6 +88,7 @@ experiences:
     - role: Software Engineer Intern
       time: 2021 - Current
       company: Cerner Corporation
+      details: Currently actively participating in Cerner's Summer Internship Program.
       
     - role: Learning Assistant
       time: 2019 - Current
@@ -122,7 +123,7 @@ projects:
         link: "https://github.com/ZDGharst/DormAssignments"
         tagline: "From a list of student compatibilities, assign students to dorm rooms using Simulated Annealing. Implemented tools to debug the program and visualize results. C++"
 
-      - title: 8Puzzle (AI)
+      - title: 8PuzzleSolver (AI)
         link: "https://github.com/ZDGharst/8Puzzle#"
         tagline: "Solves an 8-puzzle arrangement using A* search with optimal data structures and algorithms. C++"
 
