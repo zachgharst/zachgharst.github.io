@@ -63,7 +63,7 @@ career-profile:
     summary: |
       *I have accepted an opportunity at Cerner Corporation to work as a Software Engineer Intern this upcoming summer (2021). I'm excited to see how I grow into a Software Engineer, and I appreciate Cerner for believing in my capabilities.*
 
-      I'm a Computer Science student at University of Missouri-Kansas City. I also work part time as a tutor at Metropolitan Community College. Check out my skills below; I'm always the go-to person for Git, Agile, and documentation in my team projects!
+      I'm a Computer Science student at the University of Missouri-Kansas City. I also work part time as a tutor at Metropolitan Community College. Check out my skills below; I'm always the go-to person for Git, Agile, and documentation in my team projects!
 
       My goal for my students as a tutor isn't to give them the answer, but to show why an answer works and to develop a deeper understanding of the subject. Handily enough, this is primarily my goal in life, as well.
 
@@ -75,7 +75,7 @@ education:
       university: University of Missouri-Kansas City
       time: 2020 - 2021
       details: |
-        Currently attending classes as a Senior at UMKC in pursuit of a BSCS. Currently enrolled in: Software Engineering Capstone, Foundations of Data Networks, Introduction to Artificial Intelligence, Introduction to Unity.
+        Currently attending classes as a Senior at UMKC in pursuit of a BSCS.
 
     - degree: General Studies, Computer Science, 4.0 GPA
       university: Metropolitan Community College-Maple Woods
@@ -85,6 +85,10 @@ education:
          Leader of the Cycling Club; worked on campus in the Math Lab.
 
 experiences:
+    - role: Software Engineer Intern
+      time: 2021 - Current
+      company: Cerner Corporation
+      
     - role: Learning Assistant
       time: 2019 - Current
       company: Metropolitan Community College-Kansas City
@@ -94,7 +98,8 @@ experiences:
           - Conducting one-on-one assistance to students who need tutoring in algebra, calculus, physics, biology, statistics, information technology, and computer science (C++, Python, arch) subjects.
           - Creating handouts and supplementary materials to assist student learning.
           - Working with a variety of individuals, students, staff, and faculty to support the philosophy and mission of an urban, open-door, comprehensive community college.
-    - role: Field Radio Operator, Corporal of Marines
+
+- role: Field Radio Operator, Corporal of Marines
       time: 2009 - 2013
       company: United States Marine Corps
       details: |
@@ -105,6 +110,14 @@ projects:
     intro: >
       These are some of the projects I'm proud of that I want to share. For some of them, I'm proud of my project structure, clean programming, and efficiency. For others, it's how I worked as a team to accomplish a complex scope.
     assignments:
+      - title: Commerce Bank Web App
+        link: "https://github.com/ZDGharst/CommerceBankWebApp"
+        tagline: "A fullstack application that allows the user to receive notifications for transactions made to their bank account. ASP.NET Core"
+
+      - title: Survive
+        link: "https://github.com/ZDGharst/Survive"
+        tagline: "In this game, the goal is for the player's turret to survive for as long as possible against hordes of zombies. Unity 3D"
+
       - title: DormAssignments (AI)
         link: "https://github.com/ZDGharst/DormAssignments"
         tagline: "From a list of student compatibilities, assign students to dorm rooms using Simulated Annealing. Implemented tools to debug the program and visualize results. C++"
@@ -166,14 +179,11 @@ skills:
       - name: Apache
         level: 85%
 
-      - name: PHP
-        level: 85%
-
-      - name: Frontend Web Development
-        level: 80%
-
       - name: MySQL / SQL
         level: 75%
+
+      - name: C#
+        level: 70%
 
       - name: ASP.NET Core MVC
         level: 50%
