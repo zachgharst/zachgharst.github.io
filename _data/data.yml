@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Zach Gharst
-    tagline: Software Engineer Intern
+    tagline: Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -31,12 +31,6 @@ sidebar:
     languages:
       - idiom: English
         level: Native
-
-#      - idiom: French
-#        level: Professional
-
-#      - idiom: Spanish
-#        level: Professional
 
     interests:
       - item: <i class="fas fa-bicycle"></i> Cycling
@@ -61,21 +55,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      *I have accepted an opportunity at Cerner Corporation to work as a Software Engineer Intern this upcoming summer (2021). I'm excited to see how I grow into a Software Engineer, and I appreciate Cerner for believing in my capabilities.*
+      I'm a Computer Science student at the University of Missouri-Kansas City. I also work part time as a tutor at Metropolitan Community College. At Cerner, I worked on a full-stack Java product as part of the Core Concepts team. Check out my skills below; I'm always the go-to person for Git, Agile, and documentation in my team projects!
 
-      I'm a Computer Science student at the University of Missouri-Kansas City. I also work part time as a tutor at Metropolitan Community College. Check out my skills below; I'm always the go-to person for Git, Agile, and documentation in my team projects!
-
-      My goal for my students as a tutor isn't to give them the answer, but to show why an answer works and to develop a deeper understanding of the subject. Handily enough, this is primarily my goal in life, as well.
-
-      🚴 Cycling enthusiast.  
-      🏫 University level tutor.  
-      🏅 Fierce competitor.
+      🚴 Cyclist  
+      🏫 Tutor  
+      🏅 Ccompetitor
 education:
     - degree: Bachelor's, Computer Science, 4.0 GPA
       university: University of Missouri-Kansas City
       time: 2020 - 2021
       details: |
-        Currently attending classes as a Senior at UMKC in pursuit of a BSCS.
+        Currently attending classes as a Senior at UMKC in pursuit of a BSCS. Expected graduation: Fall semester 2021.
 
     - degree: General Studies, Computer Science, 4.0 GPA
       university: Metropolitan Community College-Maple Woods
@@ -85,11 +75,6 @@ education:
         Leader of the Cycling Club; worked on campus in the Math Lab.
 
 experiences:
-    - role: Software Engineer Intern
-      time: 2021 - Current
-      company: Cerner Corporation
-      details: Currently actively participating in Cerner's Summer Internship Program.
-      
     - role: Learning Assistant
       time: 2019 - Current
       company: Metropolitan Community College-Kansas City
@@ -100,6 +85,11 @@ experiences:
           - Creating handouts and supplementary materials to assist student learning.
           - Working with a variety of individuals, students, staff, and faculty to support the philosophy and mission of an urban, open-door, comprehensive community college.
 
+    - role: Software Engineer Intern
+      time: Summer 2021
+      company: Cerner Corporation
+      details: Currently actively participating in Cerner's Summer Internship Program.      
+
     - role: Field Radio Operator, Corporal of Marines
       time: 2009 - 2013
       company: United States Marine Corps
@@ -109,8 +99,11 @@ experiences:
 projects:
     title: Projects
     intro: >
-      These are some of the projects I'm proud of that I want to share. For some of them, I'm proud of my project structure, clean programming, and efficiency. For others, it's how I worked as a team to accomplish a complex scope.
+      These are some of the projects that I'm proud of. For some of them, I'm proud of my project structure, clean programming, and efficiency. For others, it's how I worked as a team to accomplish a complex scope.
     assignments:
+      - title: DeviceViewer Location Enforcement (Cerner)
+        tagline: "Joined an existing product and team to add user interface components, create backend operations, perform unit testing, and documenting design and procedures. Java, JUnit / Mockito, SWT"
+        
       - title: Commerce Bank Web App
         link: "https://github.com/ZDGharst/CommerceBankWebApp"
         tagline: "A fullstack application that allows the user to receive notifications for transactions made to their bank account. ASP.NET Core"
@@ -139,28 +132,6 @@ projects:
         link: "https://github.com/ZDGharst/EarthquakeDB"
         tagline: "Worked with three other students to create, import, process, and analyze statistics on an extremely large dataset of earthquakes from around the world. SQL, MySQL, PHP"
 
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
-
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         link: "#"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-#       - title: A syntax directed compiler for Algol 60
-#         link: "#"
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
@@ -171,14 +142,11 @@ skills:
       - name: Git
         level: 98%
 
-      - name: Ubuntu/Linux
+      - name: Ubuntu / Linux
         level: 95%
 
       - name: Agile
         level: 90%
-
-      - name: Apache
-        level: 85%
 
       - name: MySQL / SQL
         level: 75%
