@@ -88,7 +88,10 @@ experiences:
     - role: Software Engineer Intern
       time: Summer 2021
       company: Cerner Corporation
-      details: Currently actively participating in Cerner's Summer Internship Program.      
+      details: |
+          - Make enhancements to existing software with minimal direction.
+          - Participate in code reviews, identify issues/deviations from best practices, collaborate on component level technical designs, and write design documentation adhering to software requirements.
+          - Own and assist others in debugging and documenting root cause analysis and resolution, identify process improvements at team level to support operations and development ecosystem, provide software release support, and verifying software enhancements through testing.
 
     - role: Field Radio Operator, Corporal of Marines
       time: 2009 - 2013
@@ -148,13 +151,19 @@ skills:
       - name: Agile
         level: 90%
 
+      - name: Java
+        level: 80%
+        
       - name: MySQL / SQL
         level: 75%
 
-      - name: C#
-        level: 70%
-
-      - name: ASP.NET Core MVC
+      - name: TypeScript / JavaScript
         level: 50%
+        
+      - name: REST API
+        level: 50%
+        
+      - name: MongoDB
+        level: 40%
 # footer: >
   #  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
