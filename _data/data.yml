@@ -55,28 +55,24 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a Computer Science student at the University of Missouri-Kansas City. I also work part time as a tutor at Metropolitan Community College. At Cerner, I worked on a full-stack Java product as part of the Core Concepts team. Check out my skills below; I'm always the go-to person for Git, Agile, and documentation in my team projects!
-
-      🚴 Cyclist  
-      🏫 Tutor  
-      🏅 Competitor
+      Hi! My name is Zach. I'm a software engineer at Microsoft.
+      
 education:
     - degree: Bachelor's, Computer Science, 4.0 GPA
       university: University of Missouri-Kansas City
       time: 2020 - 2021
-      details: |
-        Currently attending classes as a Senior at UMKC in pursuit of a BSCS. Expected graduation: Fall semester 2021.
 
     - degree: General Studies, Computer Science, 4.0 GPA
       university: Metropolitan Community College-Maple Woods
       time: 2018 - 2019
-      details: |
-        Activities and Societies: Member of Phi Theta Kappa; achieved Dean’s List every semester.  
-        Leader of the Cycling Club; worked on campus in the Math Lab.
 
 experiences:
+    - role: Software Engineer
+      time: 2022 - Present
+      company: Microsoft
+      
     - role: Learning Assistant
-      time: 2019 - Current
+      time: 2019 - 2021
       company: Metropolitan Community College-Kansas City
       details: |
           - Continuing tutoring services through the COVID-19 pandemic by creating an online platform through Discord for students and tutors to engage with each other.
@@ -147,23 +143,15 @@ skills:
 
       - name: Ubuntu / Linux
         level: 95%
-
-      - name: Agile
+        
+      - name: TypeScript / JavaScript
         level: 90%
 
-      - name: Java
-        level: 80%
-        
       - name: MySQL / SQL
         level: 75%
-
-      - name: TypeScript / JavaScript
-        level: 50%
         
       - name: REST API
-        level: 50%
+        level: 75%
         
       - name: MongoDB
-        level: 40%
-# footer: >
-  #  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+        level: 70%
