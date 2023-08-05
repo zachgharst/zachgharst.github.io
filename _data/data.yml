@@ -16,7 +16,7 @@ sidebar:
     phone: 913-907-9192
     website: gharst.engineer #do not add http://
     linkedin: zach-gharst
-    github: ZDGharst
+    github: zachgharst
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -70,6 +70,8 @@ experiences:
     - role: Software Engineer
       time: 2022 - Present
       company: Microsoft
+      details: |
+          - I work on the Windows build.
       
     - role: Learning Assistant
       time: 2019 - 2021
