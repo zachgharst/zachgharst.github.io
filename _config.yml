@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Zach Gharst
-url: 'http://gharst.engineer'
+url: 'http://zachgharst.github.io'
 baseurl: '' #change it according to your repository name
 description: A resume website for Zach Gharst, a software engineer in Kansas City, MO.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
